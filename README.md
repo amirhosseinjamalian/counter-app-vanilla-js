@@ -17,7 +17,7 @@ This project is built using **HTML, CSS, and pure JavaScript**, making it perfec
 
 ## 🔗 Live Demo
 
-👉 [View Demo](https://your-demo-link.com)
+👉 [View Demo](https://amirhosseinjamalian.github.io/counter-app-vanilla-js/)
 
 
 ---
