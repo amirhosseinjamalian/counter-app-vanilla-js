@@ -19,7 +19,6 @@ This project is built using **HTML, CSS, and pure JavaScript**, making it perfec
 
 👉 [View Demo](https://your-demo-link.com)
 
-*(Replace this with your GitHub Pages or Vercel link)*
 
 ---
 
@@ -49,7 +48,7 @@ This project is built using **HTML, CSS, and pure JavaScript**, making it perfec
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/counter-app-vanilla-js.git
+git clone https://github.com/amirhosseinjamalian/counter-app-vanilla-js.git
 ```
 ### 2. Open the folder
 ```bash
@@ -67,5 +66,5 @@ Feel free to modify and use it however you like.
 
 ✨ Author
 
-Created by [Your Name].
+Created by [AmirhosseinJamalian].
 If you like this project, consider giving it a ⭐ on GitHub!
